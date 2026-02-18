@@ -1,1 +1,4 @@
 
+User-agent: *
+Allow: /
+Sitemap: https://oposicionestropaymarineria2026.com/sitemap.xml
