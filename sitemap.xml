@@ -1,8 +1,60 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- HOME — máxima prioridad, actualización semanal -->
   <url>
     <loc>https://oposicionestropaymarineria2026.com/</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- NOTICIAS — actualización diaria -->
+  <url>
+    <loc>https://oposicionestropaymarineria2026.com/noticias.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- PLANES — alta prioridad, contenido de conversión -->
+  <url>
+    <loc>https://oposicionestropaymarineria2026.com/planes.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- EQUIPO — prioridad media-alta, contenido de credibilidad -->
+  <url>
+    <loc>https://oposicionestropaymarineria2026.com/equipo.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- CONTACTO — prioridad media-alta, CTA directo -->
+  <url>
+    <loc>https://oposicionestropaymarineria2026.com/contacto.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- LEGAL — baja prioridad, noindex recomendado pero indexable -->
+  <url>
+    <loc>https://oposicionestropaymarineria2026.com/privacidad.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
+  <url>
+    <loc>https://oposicionestropaymarineria2026.com/aviso-legal.html</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+
 </urlset>
